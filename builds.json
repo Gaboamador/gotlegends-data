@@ -1,4 +1,5 @@
-{
+[
+  {
   "name": "Gimmick",
   "class": "Hunter",
   "ultimate": "Eye of Uchitsune",
@@ -66,3 +67,4 @@
   "gw2_perk1": "Munitions",
   "gw2_perk2": "Lucky"
 }
+]
