@@ -1,4 +1,3 @@
-[
   [
     {
       "name": "Gimmick",
@@ -339,8 +338,7 @@
       "gw2_prop2": "Cooldown Reduction on Kill",
       "gw2_perk1": "Lucky",
       "gw2_perk2": "Strong Brew"
-    }
-  ],
+    },
   {
     "name": "Última prueba",
     "class": "Ronin",
