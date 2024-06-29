@@ -76,8 +76,8 @@
     "perk2": "Deadly Nightshade",
     "perk3": "Shadow Storm",
     "katana": "Moon Katana",
-    "katana_prop1": "Melee Damage",
-    "katana_prop2": "Ultimate Damage",
+    "katana_prop1": "Perfect Parry Window",
+    "katana_prop2": "Oni Damage",
     "katana_perk1": "Moon Master",
     "katana_perk2": "Way of the Flame",
     "ranged": "Forbidden Medicine",
@@ -87,7 +87,7 @@
     "ranged_perk2": "Black Powder Bomb",
     "charm": "Assassin Charm",
     "charm_prop1": "Toxic Vanish Radius",
-    "charm_prop2": "Oni Damage",
+    "charm_prop2": "Status Effect Damage",
     "charm_perk1": "Combat Regeneration",
     "charm_perk2": "Chain Vanish",
     "gw1": "Spirit Kunai",
@@ -98,7 +98,7 @@
     "gw2": "Caltrops",
     "gw2_prop1": "Ghost Weapon Damage",
     "gw2_prop2": "Status Effect Duration",
-    "gw2_perk1": "Fired Up",
+    "gw2_perk1": "Deep Bags",
     "gw2_perk2": "Munitions"
   },
   {
